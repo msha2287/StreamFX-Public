@@ -341,17 +341,3 @@ jobs:
       with:
         name: "${{ matrix.runner }}-${{ matrix.compiler }}-qt${{ matrix.qt }}"
         path: "${{ github.workspace }}/build/package"
-
-английский
-group: build-${{ github.ref_name }}
-РУССКИЙ
-группа: build-${{ github.ref_name }}
-
-НАСТРОЙКИ РАСШИРЕНИЯЕЩЁ »
-
-английский
-group: build-${{ github.ref_name }}
-РУССКИЙ
-группа: build-${{ github.ref_name }}
-
-НАСТРОЙКИ РАСШИРЕНИЯЕЩЁ »
